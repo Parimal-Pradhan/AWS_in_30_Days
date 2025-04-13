@@ -1,5 +1,5 @@
 
-![Uploading ChatGPT Image Apr 13, 2025, 10_49_33 PM.png…]()
+**![ChatGPT Image Apr 13, 2025, 10_49_33 PM](https://github.com/user-attachments/assets/ed024647-039c-43d8-aa90-1c2f77dc4739)**
 
 ### 🏗️ **CloudNova Inc. IAM-Based Access Control Architecture**
 
