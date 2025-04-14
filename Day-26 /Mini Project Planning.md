@@ -1,4 +1,4 @@
-# ✅ **Day-26: Mini Project Planning (Extended Version)**
+# ✅ **Day-26: Mini Project Planning **
 
 ![ChatGPT Image Apr 14, 2025, 06_17_23 PM](https://github.com/user-attachments/assets/869209c2-3594-4136-9d8d-efb25466f144)
 
