@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 **Extended Project Title:**  
+## 📌 **Project Title:**  
 **"Secure File Upload System with Real-Time Monitoring and Notification using EC2, S3, IAM, CloudWatch, and SNS"**
 
 ---
