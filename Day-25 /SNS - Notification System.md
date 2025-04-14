@@ -1,4 +1,3 @@
-# **Day-25: SNS - Notification System**
 
 
 ![ChatGPT Image Apr 14, 2025, 06_06_46 PM](https://github.com/user-attachments/assets/3cafc48f-fa1e-45cb-84f3-0bb846849270)
